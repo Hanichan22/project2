@@ -1,0 +1,38 @@
+[
+    {
+        "idbarang": "001",
+        "namabrg": "Teh Kotak",
+        "harga": "10000",
+        "qty": 70
+    },
+    {
+        "idbarang": "002",
+        "namabrg": "Teh Kotak",
+        "harga": "15000",
+        "qty": "78"
+    },
+    {
+        "idbarang": "003",
+        "namabrg": "Teh Kotak",
+        "harga": "20000",
+        "qty": "78"
+    },
+    {
+        "idbarang": "004",
+        "namabrg": "Teh Kardus",
+        "harga": "10000",
+        "qty": 70
+    },
+    {
+        "idbarang": "005",
+        "namabrg": "Teh Kardus",
+        "harga": "15000",
+        "qty": "78"
+    },
+    {
+        "idbarang": "006",
+        "namabrg": "Teh Kardus",
+        "harga": "20000",
+        "qty": "78"
+    }
+]
