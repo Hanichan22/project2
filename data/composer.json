@@ -1,1 +1,11 @@
+{
+  "require": {
+    "php": "^8.2"
+  },
+  "scripts": {
+    "heroku-postbuild": [
+      "composer install"
+    ]
+  }
+}
 
